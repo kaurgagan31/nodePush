@@ -1,5 +1,5 @@
 const express = require('express');
-console.log("Hello");
+console.log("Hello User...........");
 const webPush = require('web-push');
 const bodyParser = require('body-parser');
 const path = require('path');
