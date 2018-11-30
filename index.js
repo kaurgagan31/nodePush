@@ -34,7 +34,7 @@ app.post('/subscribe', (req, res) => {
    // const user = result[0].username;
     // var data = JSON.parse(result[0].data);
 
-    console.log("==================== =========================");
+    console.log("=============================================");
    // console.log("data",data);
     console.log("=============================================");
 
