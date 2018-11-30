@@ -1,4 +1,5 @@
 const express = require('express');
+console.log("Hello user");
 const webPush = require('web-push');
 const bodyParser = require('body-parser');
 const path = require('path');
