@@ -20,9 +20,9 @@ app.post('/subscribe', (req, res) => {
 
   //get pushSubscriptionObject
   const subscription = req.body;
-  console.log("=============================================");
+  console.log("==============================================");
   console.log(subscription);
-  console.log("=============================================");
+  console.log("==============================================");
 
   const endpoint = subscription.endpoint;
   console.log(endpoint);
